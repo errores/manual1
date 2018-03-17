@@ -1,2 +1,2 @@
 # manual1
-![GitHub Logo](images/apache.phg)
+![GitHub Logo](/images/apache.phg)
